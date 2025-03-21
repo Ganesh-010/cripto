@@ -4,7 +4,7 @@ import './Home.css'
 const Home = () => {
   return (
     <div>
-      <h2>Home</h2>
+      <h2>I am ganesh, this is my new repository </h2>
     </div>
   )
 }
